@@ -264,7 +264,7 @@ cer证书签名验证  ： http://blog.csdn.net/zj510/article/details/40116411
 全站 HTTPS 来了  ： http://www.cnblogs.com/bugly/p/5075909.html#    
 
 ## PS
-书签太多，先暂时整体这些把
+书签太多，先暂时整体这些把，点颗星把，眼睛都整理花了
 
 ## 支持信息
 本人，未婚，性别男，爱好女。    
