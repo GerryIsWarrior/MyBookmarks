@@ -47,7 +47,7 @@
 JavaScript全栈教程 : http://www.liaoxuefeng.com/wiki/001434446689867b27157e896e74d51a89c25cc8b43bdb3000    
 全屏滑动库 : https://github.com/nieweidong/fetool    
 Vue.js : http://cn.vuejs.org/    
-PhotoSwipe : http://photoswipe.com/
+PhotoSwipe : http://photoswipe.com/    
 能够将emoji关键词转换为emoji图片的JS插件 : https://github.com/Ranks/emojify.js    
 图片剪裁 : http://fengyuanchen.github.io/cropper/    
 让打印console.log时有更好的展示样式 : https://www.npmjs.com/package/colors    
