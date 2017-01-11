@@ -263,6 +263,40 @@ SSL的单向认证和双向认证 ： http://www.tuicool.com/articles/aEFZR3
 cer证书签名验证  ： http://blog.csdn.net/zj510/article/details/40116411    
 全站 HTTPS 来了  ： http://www.cnblogs.com/bugly/p/5075909.html#    
 
+## 国内顶级以及一些著名互联网公司招聘网站整理
+阿里巴巴集团招聘    ： https://job.alibaba.com/zhaopin/positionList.htm      
+Tencent 腾讯        ： http://hr.tencent.com/position.php?lid=2175&tid=87&keywords=%E8%AF%B7%E8%BE%93%E5%85%A5%E5%85%B3%E9%94%AE%E8%AF%8D&start=0#a        
+百度                ： http://talent.baidu.com/external/baidu/index.html#/social/2         
+携程                ： http://job.ctrip.com/SocialRecruit/SearchJobList.aspx?JobType=0&Location=%C9%CF%BA%A3%CA%D0&Category=0&JobName=%u524D%u7AEF     
+新浪                ： http://career.sina.com.cn/      
+搜狐                ： http://hr.sohu.com/     
+网易                ： http://hr.163.com/position/list.do?positionName=%E5%89%8D%E7%AB%AF&workPlaceStr=2&currentPage=1&workType=0      
+小米                ： http://hr.xiaomi.com/job/list/0-1-2     
+360                 ： http://hr.360.cn/zhiweilist.html     
+爱奇艺              ： http://zhaopin.iqiyi.com/     
+京东                ： https://zhaopin.jd.com/JD/web/index/social     
+苏宁云商            ： http://careers.suning.cn/rps-web/position/show_position_new.htm?type=1#     
+中国平安            ： http://job.pingan.com/     
+国美                ： http://zp.gome.com.cn/socialrecruit.html     
+金山                ： http://job.kingsoft.com/search.php?keyword=%E5%89%8D%E7%AB%AF&x=41&y=13     
+欢聚时代            ： http://hr.yy.com/     
+易车                ： http://bitauto.hirede.com/CareerSite/Index     
+乐视                ： http://job.le.com/social?type=2&area=0&positionName=%E5%89%8D%E7%AB%AF     
+巨人                ： http://hr.ztgame.com/job/society/intro/job_id/462     
+美团点评            ： http://join.dianping.com/     
+今日头条            ： https://job.toutiao.com/campus?city=%E4%B8%8A%E6%B5%B7     
+滴滴快的            ： http://job.xiaojukeji.com/social/?c=3100&dept=undefined&PageIndex=2     
+知乎                ： https://www.zhihu.com/careers#positions     
+陆金所              ： https://promo.lu.com/activity-pages/job-20150213/detail.html#box3     
+房天下              ： http://job.fang.com/position.html?param=city_2     
+饿了么              ： http://jobs.ele.me/jobs/#kw=%E5%89%8D%E7%AB%AF     
+同程旅游            ： http://tongcheng.zhiye.com/zpdetail/310034365?r=-1&p=&c=&d=&k=%E5%89%8D%E7%AB%AF     
+去哪儿              ： http://qunar.zhiye.com/social?city=&cate=&k=%E5%89%8D%E7%AB%AF&PageIndex=1     
+B站招聘             ： http://www.bilibili.com/html/join-list.html     
+优酷土豆            ： http://special.zhaopin.com/bj/2013/hywl030666/joblist.htm?division=&jobarea=538&funtype=&issuedate=10000&keyword=%E5%89%8D%E7%AB%AF&npage=     
+中国移动            ： http://job.10086.cn/     
+
+
 ## PS
 书签太多，先暂时整体这些把，点颗星把，眼睛都整理花了
 
