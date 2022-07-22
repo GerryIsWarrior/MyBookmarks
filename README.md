@@ -211,7 +211,7 @@ Apktool ： https://ibotpeaches.github.io/Apktool/
 
 ## UI设计
 ### Android UI设计
-Material Design for Bootstrap ： http://fezvrasta.github.io/bootstrap-material-design/    
+Material Design for Bootstrap ： https://mdbootstrap.com/   
 Angular Material 是google使用Material Design 为angularJs设计的UI框架 ： http://www.tuicool.com/articles/VriqeeF    
 Material UI首页、文档和下载 ： http://www.oschina.net/p/material+ui    
 Material UI ： http://material-ui.com/#/    
